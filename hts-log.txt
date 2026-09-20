@@ -1,0 +1,13 @@
+HTTrack3.50-2 launched on Sun, 20 Sep 2026 12:06:50 at https://www.growtopiagame.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://www.growtopiagame.com/ -O1 "C:\Download\gtps\web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:06:51	Info: 	Note: due to https://www.growtopiagame.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+12:07:32	Info: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://s3.eu-west-1.amazonaws.com/cdn.growtopiagame.com/website/resources/assets/images/grow_discord.png (from https://www.growtopiagame.com/)
+
+HTTrack Website Copier/3.50-2 mirror complete in 43 seconds : 53 links scanned, 51 files written (5203938 bytes overall) [5230806 bytes received at 121646 bytes/sec]
+(No errors, 0 warnings, 2 messages)
